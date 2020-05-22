@@ -1,8 +1,23 @@
 # ColorsFront
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+Aplicación que brinda los colores disponibles para ser utilizados en los diseños para el Frontend  
 
-## Development server
+## Tecnologías que utiliza
+
+Angular core 9
+Boostrap 4
+ngx-clipboard
+
+## 
+
+
+
+
+    Breve introducción a la aplicación
+    Listado de las tecnologías o frameworks utilizados
+    Cómo instalar las dependencias y correr el proyecto
+    URL a producción en caso de haber sido subido
+
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
