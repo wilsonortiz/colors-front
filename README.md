@@ -1,42 +1,19 @@
 # ColorsFront
 
-Aplicación que brinda los colores disponibles para ser utilizados en los diseños para el Frontend  
+Aplicación que brinda los colores disponibles a partir de una api, para ser utilizados en los diseños para el Frontend  
 
 ## Tecnologías que utiliza
 
 Angular core 9
 Boostrap 4
-ngx-clipboard
+ngx-clipboard libreria para copiar al portapapeles
 
-## 
+## Instalar dependencias 
 
+Es necesario tener node instalado:
 
+ - Ejecutar el comando `npm install` para instalar dependencias
+ - Levantar el servidor con el comando `ng serve`
 
-
-    Breve introducción a la aplicación
-    Listado de las tecnologías o frameworks utilizados
-    Cómo instalar las dependencias y correr el proyecto
-    URL a producción en caso de haber sido subido
-
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Url de produccion
+ 
