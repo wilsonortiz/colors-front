@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "colors-front"
+    }
+  },
+  "defaultProject": "colors-front",
+  "cli": {
+    "analytics": false
+  }
 }

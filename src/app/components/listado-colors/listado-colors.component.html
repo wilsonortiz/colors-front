@@ -1,0 +1,21 @@
+<div class="row justify-content-center">
+  <div appCopiedColor *ngFor="let color of colors.data" class="col-md-4 border rounded " style="height:150px; cursor: pointer;" [style.background-color]="color.color">
+
+    <div class="">{{color.year}}</div>
+    <div id="divColor" class="text-center">
+      <label>{{color.name}}</label>
+      <br>
+      <label class="font-weight-bold">{{color.color}}</label>
+    </div>
+    <div class="pantone"> {{color.pantone_value}}</div>
+
+  </div>
+
+</div>
+
+<!--Navegacion-->
+<div class="d-flex justify-content-between">
+  <a type="button" (click)="anterior()"> <Anterior</a>
+  <a type="button" (click)="siguiente()"> Siguiente></a>
+
+</div>
